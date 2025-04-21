@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: max-content;
+    width: 100%;
+}
+main{
+    height: 2400px;
+    width: 100%;
+    background: yellow;
+    padding: 50px;
+}
+.Container{
+    height: 100%;
+    width: 100%;
+    background: red;
+}
+header{
+    height: 13%;
+    width: 100%;
+    background: palegreen;
+}
+.imageHolder{
+    height: 250px;
+    width: 250px;
+    background: blanchedalmond;
+}

@@ -1,0 +1,15 @@
+.TEXT{
+    background: blue;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    transition: all 350ms ease-in-out;
+    transform: scale(1);
+}
+.TEXT:hover{
+    cursor: pointer;
+    transition: all 350ms ease-in-out;
+    transform: scale(1.03);
+}
