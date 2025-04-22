@@ -19,7 +19,7 @@ const App = () => {
         width: "100%",
       }}
     >
-      <Button loading={loading} setLoading={setLoading} children="Customizable" onClick={yes}/>
+      <Button loading={loading} setLoading={setLoading} children="Customizable" className="TEXT" id="" onClick={yes}/>
     </div>
   );
 };
